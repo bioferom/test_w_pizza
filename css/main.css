@@ -1,0 +1,9 @@
+#pizzas_page img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #e8e8e8;
+}
+.pizza-item {
+    margin-bottom: 50px;
+}
+
